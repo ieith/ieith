@@ -2,19 +2,23 @@
 
 - 👀 I’m interested in ...
 
-Cloud Security, with a specific focus on IAM.
+Cloud Technologies.
 
-General Administration, with a goal of engaging with a more "DevSecOps" style
+General Administration.
 
 Automation and enterprise app development (in particular in the IAM space)
 
 - 🌱 I’m currently learning ...
 
-Powershell (some experience)
+JavaScript
 
-Python (a little experience)
+Backend
 
-JavaScript (very new)
+(Powershell)
+
+(Python)
+
+(Go)
 
 - 💞️ I’m looking to collaborate on ...
 
@@ -23,8 +27,6 @@ JavaScript (very new)
 - 📫 How to reach me ...
 
 TBD, but try and @ me if you want.
-
-Also, IG @geekydewi
 
 <!---
 ieith/ieith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
