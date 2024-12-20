@@ -10,7 +10,9 @@ Automation and enterprise app development (in particular in the IAM space)
 
 - 🌱 I’m currently learning ...
 
-JavaScript
+HTML, CSS, JavaScript
+
+Git
 
 Backend
 
@@ -27,6 +29,8 @@ Backend
 - 📫 How to reach me ...
 
 TBD, but try and @ me if you want.
+
+🏴󠁧󠁢󠁷󠁬󠁳󠁿 🏳️‍🌈 
 
 <!---
 ieith/ieith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
