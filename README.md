@@ -12,7 +12,10 @@ Automation and enterprise app development (in particular in the IAM space)
 
 - 🌱 I’m currently learning ...
 
-HTML, CSS, JavaScript
+HTML & CSS 
+
+JavaScript
+
 Git
 
 - 🌱 I’m occasionally also learning ...
