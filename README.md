@@ -2,6 +2,8 @@
 
 - 👀 I’m interested in ...
 
+Front End, potentially Full Stack.
+
 Cloud Technologies.
 
 General Administration.
@@ -11,15 +13,12 @@ Automation and enterprise app development (in particular in the IAM space)
 - 🌱 I’m currently learning ...
 
 HTML, CSS, JavaScript
-
 Git
 
-Backend
-
+- 🌱 I’m occasionally also learning ...
+  
 (Powershell)
-
 (Python)
-
 (Go)
 
 - 💞️ I’m looking to collaborate on ...
