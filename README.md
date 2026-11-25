@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in ...
 
-Front End, potentially Full Stack.
+CySec.
 
 Cloud Technologies.
 
